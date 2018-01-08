@@ -8,7 +8,7 @@
 				},
         {
             "id": 2,
-						"deleteUrl": "https://jsonplaceholder.typicode.com/posts" //@TODO: this shouldn't be sent, just received from the controller. but the ajax mock service responds with the same data you send
+						"deleteUrl": "https://jsonplaceholder.typicode.com/posts"
         }
     ]
 }
