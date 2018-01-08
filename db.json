@@ -1,0 +1,14 @@
+
+{
+    "fileUpload": [
+        {
+            "id": 1,
+						"uploadUrl": "http://127.0.0.1:10000/devstoreaccount1/temp/myclassaction/d3d57b3c-63cf-4bb7-968f-238835321844/89b1a2c7-738b-48ff-9609-4756be599e16?sv=2017-04-17&sr=b&sig=L%2FNqdSY2cWtvooHpod5Y87VBECe9NdUgNH9Tyo8gqN8%3D&st=2018-01-08T09:42:06Z&se=2018-01-09T10:42:06Z&sp=aw",
+						"documentID": "fyhduisfhisdfhisdofhsdiofhsdi"
+				},
+        {
+            "id": 2,
+						"deleteUrl": "https://jsonplaceholder.typicode.com/posts" //@TODO: this shouldn't be sent, just received from the controller. but the ajax mock service responds with the same data you send
+        }
+    ]
+}
